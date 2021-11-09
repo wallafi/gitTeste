@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Barsystem - Sistema de gerenciamento de bar, pub, balada ou restaurante</title>
+<title>system - Sistema de gerenciamento de bar, pub, balada ou restaurante</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link rel="shortcut icon" href="images/devicon.png" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
