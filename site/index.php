@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>system - Sistema de gerenciamento de bar, pub, balada ou restaurante</title>
+<title>Barsystem - Sistema de gerenciamento de bar, pub, balada ou restaurante</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link rel="shortcut icon" href="images/devicon.png" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -36,7 +36,7 @@
 				<a href="#nav" title="Show navigation">Mostrar Navegação</a>
 				<a href="#" title="Hide navigation">Esconder Navegação</a>
 				<ul class="clearfix">
-					<li><a href="#home" class="scroll">Inicio</a></li>
+					<li><a href="#home" class="scroll">Início</a></li>
 				    <li><a href="#about" class="scroll">Sobre</a></li>
 					<li><a href="#portfolio" class="scroll">Clientes</a></li>
 					<li><a href="#contact" class="scroll">Contato</a></li>
